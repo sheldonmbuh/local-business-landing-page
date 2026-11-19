@@ -1,12 +1,12 @@
-# Local Business Landing Page
+# Local Business Landing Page: Red River Fence & Deck
 
-A responsive landing page for a fictional coffee shop, built with plain HTML, CSS, and a small amount of JavaScript. No frameworks, no build step.
+A responsive landing page for a real client, Red River Fence & Deck in Waterloo Region, built with plain HTML and CSS. No frameworks, no build step. The production site is [redriverfencing.ca](https://redriverfencing.ca); this repo is my clean, from-scratch demo version of the landing page pattern behind it.
 
 ## What this project shows
 
-- Semantic page structure: header, hero, services, about, visit info, contact
+- Semantic page structure: header, hero, services, materials, service area, and a clear call to action
 - Responsive layout using CSS grid and flexible sections that work on a phone
-- Accessible form labels and a JavaScript submit handler with clear feedback
+- Honest, plain-language copy written for a local customer: what the business builds, where it works, and how to get a quote
 
 ## Run it
 
@@ -14,4 +14,4 @@ Open `index.html` in any browser, or serve the folder with any static host such 
 
 ## Why it exists
 
-Most of my client work at Sheldon Tech Solutions starts with exactly this: a clear, fast page that tells a local customer what a business does, where it is, and how to reach it. This project is that pattern, rebuilt as a clean public demo.
+Red River Fence & Deck is my flagship client at Sheldon Tech Solutions. Most local business work starts with exactly this: one fast page that earns trust and turns a visitor into a quote request. This project is that pattern, rebuilt in the open as part of my portfolio.
